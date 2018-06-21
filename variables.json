@@ -1,0 +1,17 @@
+{
+    "name": "[NAME]",
+    "iso_path": "[YOUR ISO PATH]",
+    "iso_checksum": "[YOUR ISO CHECKSUM]",
+    "vyos_user": "[YOUR VYOS USERNAME]",
+    "vyos_password": "[YOUR VYOS PASSWORD]",
+    "vyos_memory": "[VYOS MEMORY IN MB]",
+    "vyos_cpu": "[NUM VYOS CPU]",
+    "esxi_host": "[YOUR ESXI HOST]",
+    "esxi_user": "[YOUR ESXI USERNAME]",
+    "esxi_password": "[YOUR ESXI PASSWORD]",
+    "vsphere_dvs_uuid": "YOUR DVS UUID",
+    "internal_port_group_id": "[DVS PORT GROUP ID -- SOMETHING LIKE: dvportgroup-1234]",
+    "datastore": "[YOUR DATASTORE]",
+    "keep_registered": "[BOOL TRUE OR FALSE]",
+    "packer_export": "[BOOL TRUE OR FALSE]"
+}
