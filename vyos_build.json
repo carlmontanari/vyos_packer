@@ -74,7 +74,7 @@
                 "<enter>"
             ],
             "keep_registered": "{{user `keep_registered`}}",
-            "skip_export": "{{user `packer_export`}}"
+            "skip_export": "{{user `packer_skip_export`}}"
         }
     ]
 }

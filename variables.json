@@ -13,5 +13,5 @@
     "internal_port_group_id": "[DVS PORT GROUP ID -- SOMETHING LIKE: dvportgroup-1234]",
     "datastore": "[YOUR DATASTORE]",
     "keep_registered": "[BOOL TRUE OR FALSE]",
-    "packer_export": "[BOOL TRUE OR FALSE]"
+    "packer_skip_export": "[BOOL TRUE OR FALSE]"
 }
